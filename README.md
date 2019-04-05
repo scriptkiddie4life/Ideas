@@ -1,2 +1,3 @@
 # Ideas
-New to development
+# 
+# Focus: Python to automate windows functions
