@@ -1,3 +1,1 @@
-# Ideas
-# 
-# Focus: Python to automate windows functions
+Read me
